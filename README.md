@@ -345,3 +345,4 @@ Below is the lesson-by-lesson sequence in which I covered them:
 
 ---
 ---
+# Safari Live Lessons: Deep Learning with TensorFlow
